@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "66e43c4bc8dc61a4a6cd363e"
+  },
+  "bookId": {
+    "$oid": "66e3f59de9fa534cc27d2015"
+  },
+  "userId": {
+    "$oid": "66e401c1d8cc008eb4c532f2"
+  },
+  "issueDate": {
+    "$date": "2024-01-08T18:30:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2024-12-08T18:30:00.000Z"
+  },
+  "rentGenerated": 3350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e47027b3cdd2ab50662f7a"
+  },
+  "bookId": {
+    "$oid": "66e2e09cd501e0942f8eafe9"
+  },
+  "userId": {
+    "$oid": "66e401c1d8cc008eb4c532f2"
+  },
+  "issueDate": {
+    "$date": "2024-01-08T18:30:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2024-11-08T18:30:00.000Z"
+  },
+  "rentGenerated": 9150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e47037b3cdd2ab50662f7c"
+  },
+  "bookId": {
+    "$oid": "66e2e040d501e0942f8eafe5"
+  },
+  "userId": {
+    "$oid": "66e401c1d8cc008eb4c532f2"
+  },
+  "issueDate": {
+    "$date": "2024-01-08T18:30:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2024-08-08T18:30:00.000Z"
+  },
+  "rentGenerated": 4260,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e47054b3cdd2ab50662f7e"
+  },
+  "bookId": {
+    "$oid": "66e2e040d501e0942f8eafe5"
+  },
+  "userId": {
+    "$oid": "66e46d899e1408a958420625"
+  },
+  "issueDate": {
+    "$date": "2024-01-08T18:30:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2024-05-08T18:30:00.000Z"
+  },
+  "rentGenerated": 2420,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4705db3cdd2ab50662f80"
+  },
+  "bookId": {
+    "$oid": "66e2e040d501e0942f8eafe5"
+  },
+  "userId": {
+    "$oid": "66e46d969e1408a958420627"
+  },
+  "issueDate": {
+    "$date": "2024-01-08T18:30:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2024-06-08T18:30:00.000Z"
+  },
+  "rentGenerated": 3040,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e47072b3cdd2ab50662f82"
+  },
+  "bookId": {
+    "$oid": "66e2de8cd501e0942f8eafd1"
+  },
+  "userId": {
+    "$oid": "66e46da79e1408a958420629"
+  },
+  "issueDate": {
+    "$date": "2024-10-08T18:30:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2024-12-08T18:30:00.000Z"
+  },
+  "rentGenerated": 732,
+  "__v": 0
+}]

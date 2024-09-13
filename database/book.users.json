@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66e401c1d8cc008eb4c532f2"
+  },
+  "name": "PQR",
+  "email": "PQR@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e41a3cf3dc2075b01e31d5"
+  },
+  "name": "abc",
+  "email": "abc@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e46d899e1408a958420625"
+  },
+  "name": "xyz",
+  "email": "xyz@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e46d969e1408a958420627"
+  },
+  "name": "book",
+  "email": "book@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e46da79e1408a958420629"
+  },
+  "name": "mno",
+  "email": "mno@gmail.com",
+  "__v": 0
+}]

@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "66e2de8cd501e0942f8eafd1"
+  },
+  "book_name": "Ethnic & Cultural",
+  "category": "Biographics",
+  "__v": 0,
+  "rentPerDay": 12
+},
+{
+  "_id": {
+    "$oid": "66e2deb3d501e0942f8eafd3"
+  },
+  "book_name": "Industry",
+  "category": "Business",
+  "__v": 0,
+  "rentPerDay": 25
+},
+{
+  "_id": {
+    "$oid": "66e2ded0d501e0942f8eafd5"
+  },
+  "book_name": "Database",
+  "category": "Computer & Tech",
+  "__v": 0,
+  "rentPerDay": 20
+},
+{
+  "_id": {
+    "$oid": "66e2defcd501e0942f8eafd7"
+  },
+  "book_name": "Children's Health",
+  "category": "Health & Fitness",
+  "__v": 0,
+  "rentPerDay": 10
+},
+{
+  "_id": {
+    "$oid": "66e2df26d501e0942f8eafd9"
+  },
+  "book_name": "Home Decorating",
+  "category": "Home & Garden",
+  "__v": 0,
+  "rentPerDay": 15
+},
+{
+  "_id": {
+    "$oid": "66e2df48d501e0942f8eafdb"
+  },
+  "book_name": "Activity Books",
+  "category": "Kids",
+  "__v": 0,
+  "rentPerDay": 10
+},
+{
+  "_id": {
+    "$oid": "66e2df69d501e0942f8eafdd"
+  },
+  "book_name": "Crafts & Games",
+  "category": "Kids",
+  "__v": 0,
+  "rentPerDay": 12
+},
+{
+  "_id": {
+    "$oid": "66e2df96d501e0942f8eafdf"
+  },
+  "book_name": "Home Improvement",
+  "category": "Home & Garden",
+  "__v": 0,
+  "rentPerDay": 20
+},
+{
+  "_id": {
+    "$oid": "66e2dfc7d501e0942f8eafe1"
+  },
+  "book_name": "Computer Science",
+  "category": "Computer & Tech",
+  "__v": 0,
+  "rentPerDay": 30
+},
+{
+  "_id": {
+    "$oid": "66e2e007d501e0942f8eafe3"
+  },
+  "book_name": "Military",
+  "category": "Biographies",
+  "__v": 0,
+  "rentPerDay": 40
+},
+{
+  "_id": {
+    "$oid": "66e2e040d501e0942f8eafe5"
+  },
+  "book_name": "Fashion",
+  "category": "Art & Music",
+  "__v": 0,
+  "rentPerDay": 20
+},
+{
+  "_id": {
+    "$oid": "66e2e065d501e0942f8eafe7"
+  },
+  "book_name": "Finance",
+  "category": "Business",
+  "__v": 0,
+  "rentPerDay": 10
+},
+{
+  "_id": {
+    "$oid": "66e2e09cd501e0942f8eafe9"
+  },
+  "book_name": "Games",
+  "category": "Entertainments",
+  "__v": 0,
+  "rentPerDay": 30
+},
+{
+  "_id": {
+    "$oid": "66e2e0cfd501e0942f8eafeb"
+  },
+  "book_name": "Basketball",
+  "category": "Sports",
+  "__v": 0,
+  "rentPerDay": 20
+},
+{
+  "_id": {
+    "$oid": "66e2e0e3d501e0942f8eafed"
+  },
+  "book_name": "camping",
+  "category": "Sports",
+  "__v": 0,
+  "rentPerDay": 10
+},
+{
+  "_id": {
+    "$oid": "66e2e0f3d501e0942f8eafef"
+  },
+  "book_name": "Europe",
+  "category": "Travel",
+  "__v": 0,
+  "rentPerDay": 12
+},
+{
+  "_id": {
+    "$oid": "66e2e105d501e0942f8eaff1"
+  },
+  "book_name": "canada",
+  "category": "Travel",
+  "__v": 0,
+  "rentPerDay": 22
+},
+{
+  "_id": {
+    "$oid": "66e46fc0b3cdd2ab50662f74"
+  },
+  "book_name": "maths",
+  "category": "mathametical",
+  "rentPerDay": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e46fdfb3cdd2ab50662f76"
+  },
+  "book_name": "history",
+  "category": "historical",
+  "rentPerDay": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e47001b3cdd2ab50662f78"
+  },
+  "book_name": "games",
+  "category": "Kids",
+  "rentPerDay": 10,
+  "__v": 0
+}]
